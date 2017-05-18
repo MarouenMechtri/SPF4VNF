@@ -1,0 +1,9 @@
+USERNAME = ""
+PASSWORD = ""
+TENANT_NAME = ""
+TENANT_ID = ""
+ENDPOINT = ""
+SERVICE = ""
+REGION = ""
+VERSION = 
+HEAT_URL = ""
