@@ -1,0 +1,8 @@
+packaging
+requests
+python-openstackclient
+python-heatclient
+python-ceilometerclient
+python-novaclient
+python-dateutil
+
